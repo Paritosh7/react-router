@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import App from "./lessons/nested-routes/App";
+import App from "./lessons/passing-props/App";
 
 ReactDOM.render(
   <React.StrictMode>
