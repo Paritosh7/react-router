@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import App from "./lessons/programatically-navigate/imperitive-history/App";
+import App from "./lessons/protected-routes/App";
 
 ReactDOM.render(
   <React.StrictMode>
